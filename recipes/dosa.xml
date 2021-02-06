@@ -1,0 +1,83 @@
+<recipe
+  title="Dosa"
+  pre-prep-time="12-14 hours"
+  prep-time="1 hour"
+  cook-time="5 minutes per dosa"
+  serves="12-14 dosas"
+>
+  <inspiration
+    text="Classic Masala Dosa - NY Times"
+    url="https://drive.google.com/open?id=1dKKyunkmldu0tDLFNJ-tlPwkgdQDStvz"
+  />
+
+  <image url="dosa.jpg" />
+
+  <ingredients title="Dosa Batter">
+    2 cups short-grain rice
+    ½ cup urad dal (split husked black lentils)
+    1 tsp fenugreek seeds
+    ½ tsp salt
+    Vegetable oil, for frying
+  </ingredients>
+  <ingredients title="Potato Filling">
+    3 tbsp vegetable oil
+    1 tsp mustard seeds
+    ½ tsp cumin seeds
+    1 medium onion, diced
+    1 red pepper, chopped into 1cm pieces
+    ½ tsp salt
+    ½ tsp turmeric
+    Pinch asafetida
+    1 tbsp grated ginger
+    6-8 curry leaves
+    4 garlic cloves, minced
+    6 small-medium potatoes, boiled, peeled and cubed
+    3 small sweet potatoes, boiled, peeled and cubed
+  </ingredients>
+  <method>
+    <step>
+      <i>Make dosa batter</i>: rinse rice in a bowl, then cover with 4 cups cold
+      water. Rinse urad dal and fenugreek seeds in a small bowl, then add
+      cold water to cover. <b>Leave both to soak for 4-6 hours</b>.
+    </step>
+    <step>
+      Separately drain rice and dal-fenugreek mixtures. Put rice in food
+      processor, add 1 cup cold water, grind to smooth paste (may have to
+      work in batches). Repeat with the dal-fenugreek mixture.
+    </step>
+    <step>
+      Combine both pastes in a medium mixing bowl. Whisk together, adding
+      enough water to obtain a medium-thick batter. Cover bowl with kitchen
+      towel and set in a warm place. Let ferment until the surface is
+      bubbly, <b>about 8 hours</b>. Stir in the salt. Use batter straight away or
+      refrigerate for later use (batter will keep for up to a week
+      refrigerated. Thin with water if necessary before proceeding).
+    </step>
+    <step>
+      <i>Make potato filling</i>: Parboil the potatoes
+    </step>
+    <step>
+      Put oil in wide skillet over medium heat. When oil is wavy, add cumin
+      and mustard seeds. Wait for seeds to pop, about 1 min, then add red
+      pepper and onion. Stir until onions have softened, about 5 min. Season
+      lightly with salt. Add turmeric, asafetida, ginger, curry leaves, and
+      garlic. Sit to coat and let sizzle for 1 min.
+    </step>
+    <step>
+      Add potatoes and ½ cup water. Cook, stirring well to combine, until
+      liquid has evaporated ~5min. Mash potatoes a bit with the back of a
+      wooden spoon. Season well with salt, then set aside at room temperature
+      (potato filling can be prepared a day in advance)
+    </step>
+    <step>
+      <i>Make dosa</i>: set cast-iron skillet over medium heat. Brush with vegetable
+      oil/butter. Ladle ¼ cup batter in the centre of the skillet, and using
+      bottom of ladle, quickly spread batter outwards in circular motion to a
+      diameter of ~7inches. Drizzle ½ tsp oil over the top. Leave dosa batter
+      to brown gradually until outer edges begin to look dry ~2min, cooking
+      one side only. Spoon ½ cup potato filling on top of dosa in the centre
+      as a strip and fold dosa to make cylindrical shape. Serve immediately.
+      Continue making dosa one at a time.
+    </step>
+  </method>
+</recipe>

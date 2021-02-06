@@ -1,0 +1,83 @@
+<recipe
+  title="Black Bean Empanadas"
+  prep-time="20 minutes"
+  cook-time="25 minutes"
+  serves="15 empanadas"
+>
+  <inspiration
+    text="Black Bean Empanadas - One Green Planet"
+    url="https://www.onegreenplanet.org/vegan-recipe/black-bean-empanadas/"
+  />
+
+  <image url="black-bean-empanadas.jpg" />
+
+  <ingredients title="Empanada Dough">
+    1 cup all-purpose flour
+    1 cup wholewheat flour
+    ¼ cup semolina flour
+    2 tbsp raw sugar
+    1 tsp sea salt
+    ½ tsp baking powder
+    5 tbsp butter, cold
+    ½ cup cold water
+    2 tsp apple cider vinegar
+  </ingredients>
+  <ingredients title="Empanada Filling">
+    Black beans
+    Refried black beans
+    Red bell pepper, diced
+    Onion, diced
+    Fresh cilantro
+    Lime juice
+    Spanish spice blend
+  </ingredients>
+  <ingredients title="Pico De Gallo">
+    Fresh diced tomatoes
+    Diced white onion
+    Sea salt
+    Lime juice
+  </ingredients>
+  <method>
+    <step>
+      <b>Make the filling</b>: Sauté onion, red pepper, and spices with the
+      whole black beans.
+    </step>
+    <step>
+      Mix in the refried beans. Warm and then remove from heat. Add lime juice
+      to taste.
+    </step>
+    <step>
+      <b>Make the dough and bake the empanadas</b>: Mix the first six
+      ingredients together in a large bowl. Then add butter. Break up into
+      small pieces by hand. When fully dispersed, the dough is ready for the
+      water/vinegar solution. Mix this until you have a shaggy dough; it might
+      require more water.
+    </step>
+    <step>
+      When it sticks together, turn it out onto a floured board and roll into
+      a 5x8-inch rectangle. Pop it back into the refrigerator at this time for
+      an hour or so. This is an important step.
+    </step>
+    <step>
+      When ready to make the empanadas, pull out of the fridge and roll it out
+      a bit more to 9x12-inch.
+    </step>
+    <step>
+      Cut it into 12 equal portions. Roll each square again to a 6x6-inch piece.
+      These are your diamonds.
+    </step>
+    <step>
+      Fill one with a tablespoon or two of filling. Arrange so a corner is facing
+      you and flip one side over to form a triangle. Crimp the edges with your
+      fingers or a fork.
+    </step>
+    <step>
+      When they're all assembled, arrange on a lightly sprayed baking sheet and
+      bake at 200°C for 25-30 minutes until golden brown.
+    </step>
+    <step>
+      <b>Make the Pico De Gallo</b>: Mix together the diced tomatoes, white
+      onion, lime juice, and sea salt
+    </step>
+  </method>
+</recipe>

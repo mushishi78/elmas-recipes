@@ -1,0 +1,58 @@
+<recipe
+  title="Beetroot Curry"
+  prep-time="10 minutes"
+  cook-time="40 minutes"
+  serves="2"
+>
+  <inspiration
+    text="The Florist - Sri Lankan Beetroot Curry"
+    url="https://theflorist.uk.com/journal/cracking-easter-recipes"
+  />
+
+  <image url="beetroot-curry.jpg" />
+
+  <ingredients>
+    60mL olive oil
+    500g cooked beetroot, divided into 2x 250g
+    400mL coconut milk
+    1 red pepper (diced into 2cm chunks)
+    1 red onion (diced into 2cm chunks)
+    1 brown onion
+    Large handful of spinach
+    2-3 medium potatoes (diced into 2cm chunks)
+    2 medium carrots (diced into 2cm chunks)
+    ½ tsp ground cinnamon, or 1 cinnamon stick
+    ½ tsp chili powder
+    1 dried lemongrass stick
+    1 tsp fennel seeds
+    2 tsp ground cumin
+    1 tsp curry powder
+    3cm fresh ginger
+    2 garlic cloves
+    Toasted almonds to garnish
+    Salt
+  </ingredients>
+
+  <method>
+    <step>
+      Par-boil carrots and potatoes for a few minutes
+    </step>
+    <step>
+      Add all the following into a blender until it forms a smooth paste: 50mL olive
+      oil, cinnamon, chili powder, lemongrass, fennel seeds, ground cumin, fresh ginger,
+      garlic cloves, 1 brown onion, 250g cooked beetroot (save other 250g for curry itself),
+      curry powder, and salt.
+    </step>
+    <step>
+      Heat frying pan with the remaining 10mL olive oil. Fry beetroot curry paste for 2-3 minutes.
+    </step>
+    <step>
+      Add the red onion, red pepper, parboiled carrots and potatoes, and remaining
+      beetroot to the pan. Cook until all the veg begins to soften.
+    </step>
+    <step>
+      Once softened, mix in the coconut milk and spinach. Sprinkle with toasted almonds
+      and serve with coconut chutney (see Coconut Chutney recipe)
+    </step>
+  </method>
+</recipe>

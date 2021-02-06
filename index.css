@@ -1,0 +1,195 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap");
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+#root {
+  height: 100%;
+}
+
+.Loading {
+  margin: 25px;
+}
+
+.Error {
+  margin: 25px;
+  color: red;
+}
+
+.Contents {
+  min-height: 100%;
+  max-width: 750px;
+  margin: auto;
+}
+
+.Contents_top {
+  display: flex;
+  align-items: center;
+  padding: 5px 5px 0;
+  justify-content: space-between;
+}
+
+.Contents_logo {
+  max-width: 100px;
+  padding: 10px 5px;
+}
+
+.Contents_titles {
+  text-align: center;
+}
+
+.Contents_title1 {
+  font-family: "Amatic SC", cursive;
+  font-size: 45px;
+  padding: 3px;
+  font-weight: bold;
+}
+
+.Contents_title2 {
+  font-family: "Amatic SC", cursive;
+  font-size: 30px;
+  padding: 3px;
+  font-weight: bold;
+}
+
+.Contents_toc_title {
+  font-family: "Amatic SC", cursive;
+  font-size: 27px;
+  padding: 20px;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.Contents_toc {
+  margin: 0 20px;
+}
+
+.Contents_toc_item {
+  font-family: "Amatic SC", cursive;
+  font-size: 25px;
+  list-style: circle;
+  display: list-item;
+  margin-left: 25px;
+  margin-bottom: 10px;
+}
+
+.Recipe {
+  min-height: 100%;
+  max-width: 750px;
+  margin: auto;
+  padding-bottom: 200px;
+}
+
+.Recipe_top {
+  display: flex;
+  align-items: center;
+  padding: 5px 5px 0;
+}
+
+.Recipe_logo {
+  max-width: 100px;
+  padding: 10px 5px;
+}
+
+.Recipe_title {
+  font-family: "Amatic SC", cursive;
+  font-size: 45px;
+  padding: 10px 5px;
+  font-weight: bold;
+}
+
+.Recipe_inspiration {
+  font-size: 12px;
+  padding: 0 15px;
+}
+
+.Recipe_inspiration_label {
+  display: inline;
+  padding-right: 5px;
+}
+
+.Recipe_banner {
+  display: flex;
+  align-items: flex-start;
+  background: #ead1dc;
+  margin: 20px 10px 0;
+  justify-content: space-evenly;
+  box-shadow: 0px 0px 1px 1px #e4c6d4;
+  border-radius: 2px;
+}
+
+.Recipe_banner_item {
+  padding: 5px;
+  text-align: center;
+  font-size: 13px;
+}
+
+.Recipe_banner_item_heading {
+  padding-bottom: 2px;
+}
+
+.Recipe_banner_item_value {
+  font-weight: bold;
+}
+
+.Recipe_image_right {
+  max-width: 40%;
+  max-height: 70vh;
+  float: right;
+  margin: 15px 10px;
+  border-radius: 4px;
+  box-shadow: 0 0 1px 1px #333;
+}
+
+.Recipe_ingredients_title,
+.Recipe_method_title {
+  font-family: "Amatic SC", cursive;
+  font-size: 30px;
+  margin: 10px 10px 0;
+  font-weight: bold;
+}
+
+.Recipe_ingredients {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Recipe_ingredient_list {
+  padding: 0 3px 15px;
+}
+
+.Recipe_ingredient_list_title {
+  font-family: "Amatic SC", cursive;
+  font-size: 23px;
+  margin: 7px 7px;
+  font-weight: bold;
+}
+
+.Recipe_ingredient {
+  font-size: 15px;
+  list-style: circle;
+  margin-left: 25px;
+  display: list-item;
+}
+
+.Recipe_steps {
+}
+
+.Recipe_step {
+  display: list-item;
+  list-style: decimal;
+  font-size: 15px;
+  margin: 10px 0 15px;
+  margin-left: 25px;
+}

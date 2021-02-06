@@ -1,0 +1,20 @@
+<recipe
+  title=""
+  prep-time=""
+  cook-time=""
+  serves=""
+>
+  <inspiration
+    text=""
+    url=""
+  />
+
+  <image url="" />
+
+  <ingredients>
+
+  </ingredients>
+  <method>
+    <step></step>
+  </method>
+</recipe>

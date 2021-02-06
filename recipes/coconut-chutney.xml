@@ -1,0 +1,28 @@
+<recipe
+  title="Coconut Chutney"
+  prep-time="10 minutes"
+  serves="2"
+>
+  <inspiration
+    text="The Florist - Coconut Chutney"
+    url="https://theflorist.uk.com/journal/cracking-easter-recipes"
+  />
+
+  <image url="coconut-chutney.jpg" />
+
+  <ingredients>
+    100g desiccated coconut
+    Juice of ½ lemon (or 1 tbsp lemon juice)
+    1 small garlic clove
+    ¼ red onion, diced
+    2 generous pinches of sugar
+    Optional nut milk
+  </ingredients>
+  <method>
+    <step>Put diced red onion in water to reduce pungency if preferred</step>
+    <step>Add all ingredients into a blender and pulse until combined</step>
+    <step>Add pinches of sugar if onion still too pungent</step>
+    <step>Add nut milk and blend for creamier consistency if desired</step>
+    <step>Serve with beetroot curry!</step>
+  </method>
+</recipe>

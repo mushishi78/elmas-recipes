@@ -1,0 +1,55 @@
+<recipe
+  title="Brown Sugar Blondies"
+  prep-time="15 minutes"
+  cook-time="25 minutes"
+  serves="16"
+>
+  <inspiration
+    text="Brown Sugar Blondies - Allergylicious"
+    url="https://allergylicious.com/easy-vegan-blondies-glutenfree"
+  />
+
+  <image url="brown-sugar-blondies.jpg" />
+
+  <ingredients>
+    120g (1 cup) flour all purpose flour
+    ¾ teaspoon baking powder
+    ½ teaspoon cinnamon
+    ¼ teaspoon salt
+    ¼ teaspoon baking soda
+    85g (6 tbsp) vegan butter
+    150g (¾ cup) light brown sugar
+    3 tbsp dairy-free milk
+    2 tbsp peanut butter
+    1 tbsp vanilla extract
+    1 tbsp other extract e.g. almond
+    60g (⅓ cup) dark chocolate chips
+    60g (⅓ cup) chopped hazelnuts
+  </ingredients>
+  <method>
+    <step>
+      Preheat oven to 180°C. Line an 8-inch pan with baking paper, long enough
+      so edges overhang.
+    </step>
+    <step>
+      In a medium bowl, whisk together flour, baking powder, cinnamon, salt and
+      baking soda until combined.
+    </step>
+    <step>
+      Using a stand mixer (or hand-held), beat the butter, brown sugar, milk,
+      peanut butter, and extracts until combined.  Slowly beat in the flour
+      mixture.
+    </step>
+    <step>
+      Once the flour is incorporated, stir in chocolate chips and chopped nuts.
+      Batter will be thick.
+    </step>
+    <step>
+      Evenly pat the batter into the prepared pan. Bake for 25 minutes or until
+      edges are lightly browned.
+    </step>
+    <step>
+      Let the blondies cool in the baking tray. Cut into 16 squares and serve.
+    </step>
+  </method>
+</recipe>

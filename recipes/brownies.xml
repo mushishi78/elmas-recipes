@@ -1,0 +1,52 @@
+<recipe
+  title="Brownies"
+  prep-time="15 minutes"
+  cook-time="25 minutes"
+  serves="16"
+>
+  <inspiration
+    text="Vegan Brownies - Sweetest Menu"
+    url="https://www.sweetestmenu.com/vegan-brownies/"
+  />
+
+  <image url="brownies.jpg" />
+
+  <ingredients>
+    140g plain flour
+    20g cocoa powder
+    200g caster sugar
+    80mL vegetable oil
+    1 tsp vanilla extract
+    200g dairy free dark chocolate, melted
+    240mL almond milk
+    75g dairy free chocolate chips, optiona
+  </ingredients>
+  <method>
+    <step>
+      Melt the dark chocolate
+    </step>
+    <step>
+      Preheat oven to 160oC. Line 8 inch square baking tray with baking paper.
+    </step>
+    <step>
+      In a large mixing bowl, add flour, cocoa powder and sugar, and gently
+      whisk to mix.
+    </step>
+    <step>
+      Add oil, vanilla, melted chocolate and almond milk. Mix with a spatula
+      until smooth and combined. Add chocolate chips and mix gently.
+    </step>
+    <step>
+      Transfer brownie batter to prepared pan and bake for 25-30 minutes or
+      until a skewer inserted in the middle comes out clean. Try not to over
+      back or brownies will turn ‘cake-y’.
+    </step>
+    <step>
+      Let the brownies cool in the baking tray
+    </step>
+    <step>
+      Cut into 16 pieces and store in for a few hours to firm them up and make
+      them super fudge-y.
+    </step>
+  </method>
+</recipe>
