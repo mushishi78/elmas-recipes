@@ -227,4 +227,8 @@ window.addEventListener("load", async () => {
     React.createElement(App, props),
     document.getElementById("root")
   );
+
+  if ("serviceWorker" in navigator && location.hostname != "localhost") {
+    navigator.serviceWorker.register("/sw.dist.js");
+  }
 });

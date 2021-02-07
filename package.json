@@ -1,0 +1,16 @@
+{
+  "name": "recipes",
+  "private": true,
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0",
+    "workbox-build": "^6.1.0",
+    "workbox-cacheable-response": "^6.1.0",
+    "workbox-expiration": "^6.1.0",
+    "workbox-routing": "^6.1.0",
+    "workbox-strategies": "^6.1.0"
+  }
+}
