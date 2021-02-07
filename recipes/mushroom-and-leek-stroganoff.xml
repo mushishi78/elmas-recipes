@@ -1,20 +1,65 @@
 <recipe
-  title=""
-  prep-time=""
-  cook-time=""
-  serves=""
+  title="Mushroom &amp; Leek Stroganof"
+  prep-time="10 minutes"
+  cook-time="25 minutes"
+  serves="2"
 >
   <inspiration
-    text=""
-    url=""
+    text="Mushroom Leek Stroganoff recipe by Nisha Vora"
+    url="https://thefeedfeed.com/rainbowplantlife/mushroom-leek-stroganoff"
   />
 
-  <image url="" />
-
   <ingredients>
-
+    2 tbsp olive oil, divided into 1 tbsp each
+    2 leeks, cleaned, trimmed, sliced
+    4 cloves garlic, minced
+    350g mushrooms, sliced
+    1 tsp dried thyme
+    1 tsp salt, divided and more to season
+    375mL vegetable broth
+    2 tbsp soy sauce
+    1 tbsp vegan Worcestershire sauce (optional)
+    30g all purpose flour (or 2tbsp cornstarch)
+    ½ cup dry white wine (pinot grigio or sauvignon blanc)
+    400mL full fat coconut milk
+    2 tbsp tahini
+    2 tbsp nutritional yeast
+    1 tsp paprika
+    ½ tsp dijon mustard
+    We served with pan fried crisp kale
   </ingredients>
   <method>
-    <step></step>
+    <step>
+      Heat 1 tbsp olive oil in a large pot over medium high heat. Once oil is
+      shimmering, add leeks and saute for 2-3 minutes, stirring occasionally, until
+      lightly brown.
+    </step>
+    <step>
+      Add the remaining 1 tbsp olive oil, along with garlic, mushrooms, and thyme.
+      Stir to combine. Saute for 4-5 min or until mushrooms are lightly browned and
+      tender. Add ½ tsp salt and cook for one more minute
+    </step>
+    <step>
+      While mushrooms are cooking, mix vegetable broth, soy sauce, worcestershire
+      sauce (optional), and flour (or cornstarch) in a measuring cup or bowl, whisking
+      to combine
+    </step>
+    <step>
+      Pour the vegetable broth-flour mixture into the pot and whisk to combine,
+      ensuring there are no flour clumps. Bring to a simmer.
+    </step>
+    <step>
+      Pour in the white wine with the cooked mushrooms and allow to simmer for 3 min
+      or until the smell of alcohol has dissipated.
+    </step>
+    <step>
+      Pour in coconut milk, tahini, nutritional yeast, the remaining ½ tsp salt, and
+      paprika. Bring to simmer over medium-low heat. Cook for 10 minutes until the
+      sauce is thickened and very creamy.
+    </step>
+    <step>
+      Stir in dijon mustard and taste for seasonings, adding more salt if needed.
+      Garnish with parsley and vegan parmesan if desired.
+    </step>
   </method>
 </recipe>

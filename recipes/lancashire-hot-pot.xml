@@ -1,20 +1,57 @@
 <recipe
-  title=""
-  prep-time=""
-  cook-time=""
-  serves=""
+  title="Lancashire Hot Pot"
+  prep-time="20 minutes"
+  cook-time="25 minutes"
+  serves="4"
 >
   <inspiration
-    text=""
-    url=""
+    text="Vegan Lancashire Hot Pot - Simon Rimmer (Good to Know)"
+    url="https://www.goodtoknow.co.uk/recipes/simon-rimmer-s-vegan-lancashire-hot-pot"
   />
 
-  <image url="" />
+  <image url="lancashire-hot-pot.jpg" />
 
-  <ingredients>
-
+  <ingredients title="Hot Pot Sauce">
+    12 tbsp vegetable oil
+    2 onions, sliced
+    2 garlic cloves, crushed
+    4 tbsp tomato puree
+    Splash of soy sauce
+    400mL Madeira or fortified wine
+    400mL vegetable stock
+    4 tbsp barley
+    2 tsp dried thyme
+    Salt and freshly ground black pepper
+  </ingredients>
+  <ingredients title="Vegetables">
+    6 parsnips
+    6 carrots
+    10 celery sticks
+    400mL vegetable stock
+    4-6 baking potatoes, peeled and finely sliced
+    150mL (¼ pint) olive oil
   </ingredients>
   <method>
-    <step></step>
+    <step>
+      Heat the vegetable oil and fry the onion and garlic until soft. Stir in
+      the tomato purée and cook for a further 5 minutes. Add the soy sauce,
+      Madeira and stock and bring to the boil, then add the barley. Reduce
+      the heat, cover and cook for 25 minutes, or until the barley is soft.
+    </step>
+    <step>
+      Peel and chop the parsnips, carrots and celery sticks attractively, then
+      cook them in the stock for about 10 minutes until just tender. Par-boil
+      the potatoes in lightly salted boiling water.
+    </step>
+    <step>
+      Stir the thyme into the sauce and season to taste. Layer all of the
+      vegetables, except for the potatoes, in six individual pie dishes and
+      spoon over the sauce.
+    </step>
+    <step>
+      Toss the potatoes in olive oil and season well, then layer these on top
+      of the vegetables. Place the dishes under a preheated hot grill until
+      the potato topping looks golden and crispy
+    </step>
   </method>
 </recipe>
