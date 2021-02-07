@@ -82,6 +82,8 @@ a {
   display: list-item;
   margin-left: 25px;
   margin-bottom: 10px;
+  color: blue;
+  cursor: pointer;
 }
 
 .Recipe {
@@ -100,6 +102,7 @@ a {
 .Recipe_logo {
   max-width: 100px;
   padding: 10px 5px;
+  cursor: pointer;
 }
 
 .Recipe_title {
