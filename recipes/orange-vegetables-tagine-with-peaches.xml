@@ -1,20 +1,53 @@
 <recipe
-  title=""
-  prep-time=""
-  cook-time=""
-  serves=""
+  title="Orange Vegetables Tagine with Peaches"
+  prep-time="15 minutes"
+  cook-time="1 hour 20 minutes"
+  serves="6"
 >
   <inspiration
-    text=""
-    url=""
+    text="Orange Vegetables Tagine with Peaches by One Green Planet"
+    url="https://www.onegreenplanet.org/vegan-recipe/orange-vegetables-tagine-with-peaches/"
   />
 
   <image url="" />
 
   <ingredients>
-
+3 tbsp olive oil
+1 large, or 2 small onions
+2 garlic cloves, finely chopped
+1 inch piece of ginger, finely grated
+400g can chickpeas
+½ cup golden raisins
+1 tsp harissa
+450g butternut squash (~half a squash)
+2 yams, cut into bite size pieces
+2 potatoes, cut into bite size pieces
+4 carrots, cut into rounds
+410g can tinned peaches, sliced
+2 cups vegetable broth
+1 heaping tbsp ground cumin
+1 tsp paprika
+½ tsp cinnamon
+½ tsp chili powder
+Zest of 1 lemon
+Chopped parsley and lemon wedges, for serving
+We served with cous cous
   </ingredients>
   <method>
-    <step></step>
+    <step>Preheat oven to 180oC</step>
+    <step>
+	In a heavy bottom pan, cook onion in oil until it turns translucent, ~10 min.
+	Add garlic and ginger and saute for an additional 3 min, until they are beginning
+	to colour. Add the chickpeas, raisins, and harissa, and cook together for an
+	additional 5 min
+    </step>
+    <step>Add rest of ingredients and enough water to submerge them. Cover with a lid</step>
+    <step>
+        Cook at 180oC for 45 minutes (vegetables should be fully cooked and tender,
+        but still firm and holding their shape). Remove lid and cook for an additional 15 min.
+    </step>
+    <step>Prepare cous cous using vegetable broth. Stir in pickled raisins</step>
+    <step>Top with chopped parsley. Serve with cous cous, with a squeeze of lemon on each plate.</step>
+
   </method>
 </recipe>
