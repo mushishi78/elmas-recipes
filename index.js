@@ -123,6 +123,7 @@ function App({ error, recipes, recipeFromUrl }) {
 
   function openRecipe(selectedRecipe) {
     setRecipe(selectedRecipe);
+    window.scrollTo(0, 0);
     history.pushState({}, null, `/?r=${selectedRecipe.name}`);
   }
 
