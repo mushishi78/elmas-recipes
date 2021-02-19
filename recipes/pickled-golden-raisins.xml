@@ -1,20 +1,31 @@
 <recipe
-  title=""
-  prep-time=""
-  cook-time=""
-  serves=""
+  title="Pickled Golden Raisins"
+  prep-time="10 minutes"
+  serves="2"
 >
   <inspiration
-    text=""
-    url=""
+    text="Moroccan Winter Squash and Chickpea Tagine by Well Vegan"
+    url="https://wellvegan.com/dinner/moroccan-winter-squash-chickpea-tagine"
   />
 
-  <image url="" />
+  <image url="pickled-golden-raisins.jpg" />
 
   <ingredients>
-
+    ½ cup golden raisins
+    ½ cup vinegar (white wine, apple cider, or distilled)
+    ¼ cup sugar
   </ingredients>
   <method>
-    <step></step>
+    <step>
+      Combine vinegar and sugar in a small saucepan and bring the mixture to a
+      boil.
+    </step>
+    <step>
+      Remove from heat, mix in the raisins, and allow to come to room
+      temperature.
+    </step>
+    <step>
+      Can be stored in a mason jar in the fridge
+    </step>
   </method>
 </recipe>

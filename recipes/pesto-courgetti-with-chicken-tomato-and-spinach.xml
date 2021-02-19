@@ -5,7 +5,6 @@
   serves="2"
 >
 
-
   <image url="pesto-courgetti-with-chicken-tomato-and-spinach.jpg" />
 
   <ingredients title="Courgetti">
@@ -16,8 +15,8 @@
 	Salt and black pepper to taste
 	Pesto
   </ingredients>
-  
-    <ingredients title="Other">
+
+  <ingredients title="Other">
 	335g cherry tomatoes, whole
 	Olive oil, drizzled
 	1 clove garlic, chopped (optional)
@@ -25,7 +24,7 @@
 	200g Vegan Chicken Tenders, cut into bite sized pieces
 	150g spinach
   </ingredients>
-  
+
   <method>
     <step>
 		Preheat oven to 225oC.
@@ -36,26 +35,26 @@
 		for 30 minutes.
 	</step>
 	<step>
-		Whilst courgetti is draining, put cherry tomatoes in a single layer on 
-		oven tray, drizzle with olive oil and sprinkle with salt and pepper. 
-		Add garlic/herbs for further flavour (optional). Roast in oven for 
+		Whilst courgetti is draining, put cherry tomatoes in a single layer on
+		oven tray, drizzle with olive oil and sprinkle with salt and pepper.
+		Add garlic/herbs for further flavour (optional). Roast in oven for
 		15-20 minutes, or until the skins begin to burst.
 	</step>
 	<step>
-		Prepare chicken tenders as per package instructions 
+		Prepare chicken tenders as per package instructions
 		(oven at 225oC for 6-8 minutes).
 	</step>
 	<step>
-		Bring a pot of water to boil. Add courgetti; cook for one minute. 
+		Bring a pot of water to boil. Add courgetti; cook for one minute.
 		Drain; rinse immediately with cold water to stop the cooking process.
 	</step>
 	<step>
-		Heat margarine in a large skillet over medium high heat. Add courgetti 
-		and garlic; cook and stir until just tender, about 5 minutes. 
+		Heat margarine in a large skillet over medium high heat. Add courgetti
+		and garlic; cook and stir until just tender, about 5 minutes.
 		Stir in spinach (optional).
 	</step>
 	<step>
-		Lastly, stir in pesto to taste <b>(do not cook pesto 
+		Lastly, stir in pesto to taste <b>(do not cook pesto
 		as cooking the basil will lose its fresh aroma)</b>
 	</step>
   </method>
