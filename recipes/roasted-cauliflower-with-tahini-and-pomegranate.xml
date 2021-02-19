@@ -1,20 +1,66 @@
 <recipe
-  title=""
-  prep-time=""
-  cook-time=""
-  serves=""
+  title="Roasted Cauliflower with Tahini and Pomegranate"
+  prep-time="20 minutes"
+  cook-time="45 minutes"
+  serves="2"
 >
   <inspiration
-    text=""
-    url=""
+    text="Roasted Cauliflower with Tahini Sauce and Pomegranate Molasses - Craving Tasty"
+    url="https://cravingtasty.com/roasted-cauliflower-tahini-sauce/"
   />
 
-  <image url="" />
+  <image url="roasted-cauliflower-with-tahini-and-pomegranate.png" />
 
-  <ingredients>
-
+  <ingredients title="Roasted Cauliflower">
+    1 cauliflower, cut into large florets
+    3 tbsp extra virgin olive oil
+    ½ tsp salt
+    ½ tsp black pepper
+    1½ tsp paprika
+  </ingredients>
+  <ingredients title="Tahini Sauce">
+    1 garlic clove, pressed
+    1 tbsp lemon juice (½ lemon)
+    3 tbsp tahini
+    1 tbsp water (plus more as req)
+    ½ tsp salt (to taste)
+    ¼ tsp black pepper (to taste)
+  </ingredients>
+  <ingredients title="Garnish">
+    2 tbsp pomegranate  molasses
+    2 tbsp pomegranate seeds
+    1 tsp fresh mint leaves, finely chopped
+    1 tbsp parsley leaves, finely chopped
+    1 tbsp lemon juice (juice of half a lemon)
   </ingredients>
   <method>
-    <step></step>
+    <step>
+      <b>To make roasted cauliflower</b>: Preheat oven to 220oC
+    </step>
+    <step>
+      In a large bowl, toss the cauliflower florets with the olive oil,
+      paprika, salt and pepper until evenly coated
+    </step>
+    <step>
+      Transfer cauliflower onto a large baking sheet and spread around in a
+      single layer (avoid crowding as humidity will cause sogginess)
+    </step>
+    <step>
+      Roast until crispy and golden brown, about 45 minutes, stirring halfway
+      through cooking. Remove cauliflower from the oven and transfer to a
+      serving platter and let cool
+    </step>
+    <step>
+      <b>To make the tahini sauce</b>:  In a small bowl, combine the garlic,
+      tahini and lemon juice. The sauce will thicken at this point so water
+      will need to be added. Start with one tablespoon and mix well until it
+      gets a yoghurt consistency. Add more water to achieve the right
+      consistency. Taste and season with salt and pepper as needed. Set aside.
+    </step>
+    <step>
+      When the roasted cauliflower has cooled, sprinkle with the tahini sauce,
+      lemon juice, pomegranate molasses, pomegranate seeds, chopped mint and
+      parsley leaves. Serve immediately.
+    </step>
   </method>
 </recipe>
