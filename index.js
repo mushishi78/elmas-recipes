@@ -45,14 +45,14 @@ async function fetchRecipes() {
 
         const ingredientLists = Array.from(ingredientsElements).map((el) => ({
           title: el.getAttribute("title"),
-          ingredients: el.textContent
+          ingredients: el.innerHTML
             .split(/\r?\n/)
             .map((s) => s.trim())
             .filter(Boolean),
         }));
 
         const steps = Array.from(stepElements).map((el) =>
-          el.textContent.trim()
+          el.innerHTML.trim()
         );
 
         return {
@@ -198,12 +198,12 @@ function App({ error, recipes, recipeFromUrl }) {
         div('Recipe_ingredient_list', { key: index },
           list.title && div('Recipe_ingredient_list_title', { key: index }, list.title),
           list.ingredients.map(ingredient =>
-            div('Recipe_ingredient', { key: ingredient }, ingredient)))))),
+            div('Recipe_ingredient', { key: ingredient, dangerouslySetInnerHTML: { __html: ingredient } })))))),
 
     div('Recipe_method_title', {}, "Method"),
     div('Recipe_steps', {},
       recipe.steps.map((step, index) => (
-        div('Recipe_step', { key: index }, step))))
+        div('Recipe_step', { key: index, dangerouslySetInnerHTML: { __html: step } }))))
   )
 }
 
