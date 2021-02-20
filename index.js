@@ -203,7 +203,12 @@ function App({ error, recipes, recipeFromUrl }) {
     div('Recipe_method_title', {}, "Method"),
     div('Recipe_steps', {},
       recipe.steps.map((step, index) => (
-        div('Recipe_step', { key: index, dangerouslySetInnerHTML: { __html: step } }))))
+        div('Recipe_step', { key: index, dangerouslySetInnerHTML: { __html: step } })))),
+
+    recipe.images && recipe.images.length > 1 && (
+      div('Recipe_images_after', {},
+        recipe.images.slice(1).map((image) => (
+          img('Recipe_image_after', `/images/${image}`, { key: image })))))
   )
 }
 

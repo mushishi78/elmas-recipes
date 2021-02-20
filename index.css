@@ -197,3 +197,14 @@ a {
   margin: 10px 0 15px;
   margin-left: 25px;
 }
+
+.Recipe_images_after {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+.Recipe_image_after {
+  width: 49%;
+}
