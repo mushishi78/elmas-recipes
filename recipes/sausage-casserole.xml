@@ -1,20 +1,59 @@
 <recipe
-  title=""
-  prep-time=""
-  cook-time=""
-  serves=""
+  title="Sausage Casserole"
+  prep-time="10 minutes"
+  cook-time="40 minutes"
+  serves="2"
 >
   <inspiration
-    text=""
-    url=""
+    text="Vegan sausage casserole"
+    url="https://www.saga.co.uk/magazine/food/recipes/vegetables/vegan-sausage-casserole"
   />
-
-  <image url="" />
-
+  <image url="sausage-casserole.jpg" />
   <ingredients>
-
+    5 vegan sausages (Plant Pioneer Chorizo Shroomdogs)
+    ½ tablespoon oil
+    1 large red onion, diced
+    2 garlic cloves, chopped
+    100g kale
+    3 carrots, sliced
+    4 tomatoes, quartered
+    400g can, chopped tomatoes
+    1 tablespoon tomato puree
+    150mL vegetable stock
+    ½ teaspoon smoked paprika
+    1 teaspoon dried rosemary
+    400g can butter beans
+    Mashed potato, to serve
   </ingredients>
   <method>
-    <step></step>
+    <step>
+      Preheat oven to 180o (Gas Mark 4)
+    </step>
+    <step>
+      Cook vegan sausages as per package instructions (while they are cooking,
+      you can prep your ingredients)
+    </step>
+    <step>
+      Heat the oil in the casserole pan (pressure cooker), add diced onion and
+      fry over medium-low heat for 5-10 minutes, until soft and golden
+    </step>
+    <step>
+      Add the garlic, carrots, kale, fresh and canned tomatoes and tomato
+      puree, vegetable stock, paprika and rosemary and stir all the ingredients
+      together well. Cut the cooked sausages into bite-sized pieces and add
+      these to the casserole too.
+    </step>
+    <step>
+      Place the lid on the casserole and transfer to the oven (put lid on
+      pressure cooker)
+    </step>
+    <step>
+      Cook for 15 minutes, then stir in the butter beans, replace the lid and
+      return to heat. Cook for a further 15 minutes until everything is cooked
+      through and smells amazing!
+    </step>
+    <step>
+      Serve with mashed potatoes (we added rosemary to this too)
+    </step>
   </method>
 </recipe>

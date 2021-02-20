@@ -1,20 +1,62 @@
 <recipe
-  title=""
-  prep-time=""
-  cook-time=""
-  serves=""
+  title="Tomato, Chickpea and Coconut Curry"
+  prep-time="10 minutes"
+  cook-time="25 minutes"
+  serves="2"
 >
   <inspiration
-    text=""
-    url=""
+    text="30 minute Chickpea and Tomato Coconut Curry - Nyssa's Kitchen"
+    url="https://nyssaskitchen.com/30-minute-chickpea-and-tomato-coconut-curry-soup/"
   />
-
-  <image url="" />
-
+  <image url="tomato-chickpea-and-coconut-curry.jpg" />
   <ingredients>
-
+    2 tbsp olive oil
+    1 medium onion, diced small
+    4 cloves garlic, thinly sliced
+    1 tsp salt
+    1 tbsp curry powder
+    400g chopped tomatoes
+    800g canned chickpeas, drained and rinsed
+    400mL coconut milk
+    2 cups of  broth of choice
+    Juice of half a lime (1 tbsp)
+    Handful of roasted cashews
+  </ingredients>
+  <ingredients title="Garnish">
+    Fresh lime wedges
+    Thinly sliced red onion
+    Roasted cashews
   </ingredients>
   <method>
-    <step></step>
+    <step>
+      Heat the oil over medium heat in a large pot. Add the onion garlic and
+      teaspoon of salt. Saute for about 5- minutes, stirring occasionally,
+      until translucent and soft
+    </step>
+    <step>
+      Next, add the curry powder and stir almost constantly for about 30
+      seconds or so, until the spices are fragrant and start to stick to the
+      bottom of the pan.
+    </step>
+    <step>
+      Add the diced tomatoes and broth
+    </step>
+    <step>
+      Scrape up any brown bits from the bottom of the pan. Bring to the boil
+      and then reduce to a simmer.
+    </step>
+    <step>
+      Cover and cook for about 10 minutes, until tomatoes are soft.
+    </step>
+    <step>
+      Add chickpeas and coconut milk and bring back up to a simmer. Simmer for
+      another 5 minutes or so to marry the flavours
+    </step>
+    <step>
+      Season with salt and pepper, and 1 tbsp lime juice (juice of half a lime)
+    </step>
+    <step>
+      Serve topped with sliced red onion, roasted cashews and lime wedges
+    </step>
   </method>
 </recipe>

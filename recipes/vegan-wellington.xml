@@ -1,20 +1,98 @@
 <recipe
-  title=""
-  prep-time=""
-  cook-time=""
-  serves=""
+  title="Vegan Wellington"
+  prep-time="30 minutes"
+  cook-time="40 minutes"
+  serves="4"
 >
   <inspiration
-    text=""
-    url=""
+    text="The Ultimate Vegan Wellington"
+    url="https://veganhuggs.com/vegan-wellington"
   />
-
-  <image url="" />
-
+  <image url="vegan-wellington-1.jpg" />
+  <image url="vegan-wellington-2.jpg" />
+  <image url="vegan-wellington-3.jpg" />
   <ingredients>
-
+    1 sheet vegan puff pastry
+    2 tbsp ground flax meal + 5 tbsp water
+    2 tbsp cooking oil
+    ½ medium onion, diced
+    2 small carrots, diced small
+    2 stalks celery, diced
+    4 cloves garlic, minced or crushed
+    1 tsp dried thyme
+    1 tsp ground sage
+    ½ tsp dried rosemary
+    230g mushrooms, finely chopped
+    1.5 tbsp tamari sauce (sub soy sauce)
+    400g can of chickpeas, drained but not rinsed
+    ¾ cup unsalted walnuts, ground into course meal
+    ½ cup panko breadcrumbs
+    2 tbsp tomato paste
+    1½ tbsp vegan worcester sauce
+    ½ tsp salt, more to taste
+    Fresh cracked pepper, to taste
+    1 tbsp vegan butter, melted
   </ingredients>
   <method>
-    <step></step>
+    <step>
+      Combine the ground flax and water in a small bowl. Set aside for 10 min.
+      It will thicken and gel up
+    </step>
+    <step>
+      Heat oil in a large pan over medium heat. Add onion, celery and carrots.
+      Saute until soft ~6-8 min
+    </step>
+    <step>
+      Add garlic, thyme, sage and rosemary. Saute for 1 min
+    </step>
+    <step>
+      Add mushrooms and saute until they soften and release moisture ~5-7 min.
+      Add tamari and cook for 1 min. Remove from heat and set aside to cool for
+      10 min
+    </step>
+    <step>
+      Add chickpeas to mixing bowl and mash enough to break down whole
+      chickpeas, but leave texture
+    </step>
+    <step>
+      Add cooled mixture, chickpeas, breadcrumbs, walnut meal, flax mixture,
+      worcester sauce, tomato paste, salt and pepper. Combine well, use hands
+      if needed. Add seasonings to taste. (If mixture seems too wet, add
+      another ¼ cup of breadcrumbs or rolled oats)
+    </step>
+    <step>
+      Preheat oven to 200oC. Line rimmed baking sheet with parchment paper and
+      set aside
+    </step>
+    <step>
+      Using your hands, shape mixture into a solid log that will fit into the
+      middle of the pastry sheet (with a few inches of slack). Make sure log is
+      packed well.
+    </step>
+    <step>
+      Unroll puff pastry sheet and lay it over the baking tray. Place the loaf
+      in the middle of the pastry sheet. Pick up one side and wrap it over the
+      loaf and repeat on the other side. Gently press to seal together (don’t
+      force if it doesn’t close, just thin and lengthen the loaf or remove some
+      mixture and form again) *if pastry doesn’t seal easily, lightly brush a
+      little non-dairy milk in that area and seal
+    </step>
+    <step>
+      Roll up the ends and press gently to seal. Trim dough first before
+      sealing if there is too much excess dough, otherwise the ends will be
+      very doughy. Flip the loaf over so the sealed edges are facing the baking
+      sheet
+    </step>
+    <step>
+      Brush the top and side with melted vegan butter. Using a sharp knife,
+      gently make diagonal slits across the whole top of the loaf about 1 inch
+      apart. Now repeat in the opposite direction to create criss cross slits
+    </step>
+    <step>
+      Place in the oven and bake for 30-35 min until heated throughout and the
+      pastry is golden brown. Let sit for 10 min before gently cutting with
+      sharp knife (it may be easier to cut along slits that were made earlier).
+      Serve with gravy if desired!
+    </step>
   </method>
 </recipe>
