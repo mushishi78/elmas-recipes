@@ -147,23 +147,27 @@ a {
   font-weight: bold;
 }
 
-.Recipe_image_right_container {
-  max-width: 40%;
-  max-height: 70vh;
+.Recipe_image_right {
   float: right;
   margin: 15px 10px;
+  max-width: 40%;
+  max-height: 70vh;
 }
 
-.Recipe_image_right_container.placeholder {
-  width: 40%;
-  height: 70vh;
-}
-
-.Recipe_image_right {
-  width: 100%;
-  height: auto;
+.Recipe_image_right img {
   box-shadow: 0 0 1px 1px #333;
   border-radius: 4px;
+}
+
+.Picture_container.placeholder {
+  width: 100%;
+  height: 100%;
+  background: #ddd;
+}
+
+.Picture img {
+  width: 100%;
+  height: auto;
 }
 
 .Recipe_ingredients_title,

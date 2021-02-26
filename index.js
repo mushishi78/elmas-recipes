@@ -113,12 +113,15 @@ function img(className, src, props, ...children) {
   return React.createElement("img", { className, src, ...props }, ...children);
 }
 
+function element(tag, className, props, ...children) {
+  return React.createElement(tag, { className, ...props }, ...children);
+}
+
 //
 // Components
 
 function App({ error, recipes, recipeFromUrl }) {
   const [recipe, setRecipe] = React.useState(recipeFromUrl);
-  const [showImagePlaceholder, setShowImagePlaceholder] = React.useState(true);
 
   function openRecipe(selectedRecipe) {
     setRecipe(selectedRecipe);
@@ -189,8 +192,7 @@ function App({ error, recipes, recipeFromUrl }) {
           div("Recipe_banner_item_value", {}, recipe.serves)))),
 
     recipe.images && recipe.images.length > 0 && (
-      div('Recipe_image_right_container ' + (showImagePlaceholder ? 'placeholder' : ''), {},
-        img('Recipe_image_right', `/images/${recipe.images[0]}`, { onLoad: () => setShowImagePlaceholder(false) }))),
+      element(Picture, 'Recipe_image_right', { src: recipe.images[0] })),
 
     div('Recipe_ingredients_title', {}, "Ingredients"),
     div('Recipe_ingredients', {},
@@ -208,8 +210,21 @@ function App({ error, recipes, recipeFromUrl }) {
     recipe.images && recipe.images.length > 1 && (
       div('Recipe_images_after', {},
         recipe.images.slice(1).map((image) => (
-          img('Recipe_image_after', `/images/${image}`, { key: image })))))
+          element(Picture, 'Recipe_image_after', { src: image, key: image })))))
   )
+}
+
+function Picture({ className, src }) {
+  const [showPlaceholder, setShowPlaceholder] = React.useState(true);
+
+  if (src == null) return null;
+
+  // prettier-ignore
+  return div('Picture_container ' + (showPlaceholder ? 'placeholder' : ''), { className },
+    element('picture', 'Picture', { onLoad: () => setShowPlaceholder(false) },
+      element('source', null, { srcset: `/images/small/${src}`, media: '(max-width: 600px)' }),
+      element('source', null, { srcset: `/images/medium/${src}`, media: '(max-width: 900px)' }),
+      img(null, `/images/${src}`)))
 }
 
 //
