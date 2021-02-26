@@ -51,9 +51,7 @@ async function fetchRecipes() {
             .filter(Boolean),
         }));
 
-        const steps = Array.from(stepElements).map((el) =>
-          el.innerHTML.trim()
-        );
+        const steps = Array.from(stepElements).map((el) => el.innerHTML.trim());
 
         return {
           name,
@@ -120,6 +118,7 @@ function img(className, src, props, ...children) {
 
 function App({ error, recipes, recipeFromUrl }) {
   const [recipe, setRecipe] = React.useState(recipeFromUrl);
+  const [showImagePlaceholder, setShowImagePlaceholder] = React.useState(true);
 
   function openRecipe(selectedRecipe) {
     setRecipe(selectedRecipe);
@@ -190,7 +189,8 @@ function App({ error, recipes, recipeFromUrl }) {
           div("Recipe_banner_item_value", {}, recipe.serves)))),
 
     recipe.images && recipe.images.length > 0 && (
-      img('Recipe_image_right', `/images/${recipe.images[0]}`, {})),
+      div('Recipe_image_right_container ' + (showImagePlaceholder ? 'placeholder' : ''), {},
+        img('Recipe_image_right', `/images/${recipe.images[0]}`, { onLoad: () => setShowImagePlaceholder(false) }))),
 
     div('Recipe_ingredients_title', {}, "Ingredients"),
     div('Recipe_ingredients', {},
